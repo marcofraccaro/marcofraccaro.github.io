@@ -1,0 +1,31 @@
+title: "Marco Fraccaro"
+author: "Marco Fraccaro"
+description: "Marco Fraccaro's website"
+more: "read more »"
+url: "https://marcofraccaro.github.io/"
+baseurl: ""
+paginate: 2
+permalink: pretty
+excerpt_separator: "\n\n\n" # two blank lines
+
+style:
+  minimalist: false
+  dark: false
+
+navigation:
+  - index.md
+  - publications.md
+
+comments:
+  disqus: "disqus-contrast"
+#  isso: "comments.mysite.org"
+
+links: # see http://fontawesome.io/icons/#brand for all possible icons
+  - twitter: "https://twitter.com/fraccarom"
+  - linkedin: "https://www.linkedin.com/in/marco-fraccaro-76705280"
+  - github: "https://github.com/marcofraccaro"
+  - envelope: "mailto:marfraccaro@gmail.com"
+
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+sass: {style: expanded}
+plugins: [jekyll-feed, jekyll-paginate]
