@@ -65,6 +65,7 @@ ___
 <b> Machine Learning meets Mathematical Optimization to predict the optimal production of offshore wind parks. </b> <font color="red"> </font> <br>
 Martina Fischetti and Marco Fraccaro.
 <i>Computers & Operations Research, 2018. </i> <br>
+<a href="/download/publications/ml-meets-mo-wind-parks.pdf">[pdf]</a>
 <a href="/download/bibtex/ml-mo-wind-parks.bib">[bibtex]</a>
 </li>
 
