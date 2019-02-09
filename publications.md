@@ -7,6 +7,15 @@ title: "Publications"
 <ul>
 
 <li> 
+<b> BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling. </b> <font color="red"> </font> <br>
+Lars Maaløe, Marco Fraccaro, Valentin Liévin and Ole Winther. <br>
+<i>ArXiv preprint, 2019. </i> <br>
+<a href="/download/publications/biva.pdf">[pdf]</a>
+<a href="https://arxiv.org/pdf/1902.02102.pdf">[arXiv]</a>
+<a href="/download/bibtex/biva.bib">[bibtex]</a>
+</li>
+
+<li> 
 <b> Deep Latent Variable Models for Sequential Data. </b> <font color="red"> </font> <br>
 Marco Fraccaro.
 <i>PhD thesis, Technical University of Denmark, 2018. </i> <br>
