@@ -9,9 +9,11 @@ title: "Publications"
 <li> 
 <b> BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling. </b> <font color="red"> </font> <br>
 Lars Maaløe, Marco Fraccaro, Valentin Liévin and Ole Winther. <br>
-<i>ArXiv preprint, 2019. </i> <br>
+<i>Advances in Neural Information Processing Systems 32, NeurIPS 2019. </i> <br>
+<a href="https://papers.nips.cc/paper/8882-biva-a-very-deep-hierarchy-of-latent-variables-for-generative-modeling">[neurips]</a>
 <a href="/download/publications/biva.pdf">[pdf]</a>
 <a href="https://arxiv.org/pdf/1902.02102.pdf">[arXiv]</a>
+<a href="https://github.com/larsmaaloee/BIVA">[code]</a>
 <a href="/download/bibtex/biva.bib">[bibtex]</a>
 </li>
 
