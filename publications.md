@@ -19,7 +19,7 @@ Lars Maaløe, Marco Fraccaro, Valentin Liévin and Ole Winther. <br>
 
 <li> 
 <b> Deep Latent Variable Models for Sequential Data. </b> <font color="red"> </font> <br>
-Marco Fraccaro.
+Marco Fraccaro. <br>
 <i>PhD thesis, Technical University of Denmark, 2018. </i> <br>
 <a href="/download/publications/fraccaro_phd_thesis.pdf">[pdf]</a>
 <a href="/download/bibtex/fraccaro_phd_thesis.bib">[bibtex]</a>
@@ -74,7 +74,7 @@ ___
 
 <li> 
 <b> The Added Effect of Artificial Intelligence on Physicians’ Performance in Detecting Thoracic Pathologies on CT and Chest X-ray: A Systematic Review. </b>  <font color="red"> </font> <br>
-Dana Li, Lea Marie Pehrson,Carsten Ammitzbøl Lauridsen, Lea Tøttrup, Marco Fraccaro, Desmond Elliott, Hubert Dariusz Zajac, Sune Darkner, Jonathan Frederik Carlsen and Michael Bachmann Nielsen. <br>
+Dana Li, Lea Marie Pehrson, Carsten Ammitzbøl Lauridsen, Lea Tøttrup, Marco Fraccaro, Desmond Elliott, Hubert Dariusz Zajac, Sune Darkner, Jonathan Frederik Carlsen and Michael Bachmann Nielsen. <br>
 <i>Diagnostics, 2021. </i> <br>
 <a href="https://www.mdpi.com/2075-4418/11/12/2206">[Diagnostics]</a>
 <a href="/download/publications/diagnostics-added-effect-ai-radiologists.pdf">[pdf]</a>
@@ -83,7 +83,7 @@ Dana Li, Lea Marie Pehrson,Carsten Ammitzbøl Lauridsen, Lea Tøttrup, Marco Fra
 
 <li> 
 <b> Machine Learning meets Mathematical Optimization to predict the optimal production of offshore wind parks. </b> <font color="red"> </font> <br>
-Martina Fischetti and Marco Fraccaro.
+Martina Fischetti and Marco Fraccaro. <br>
 <i>Computers & Operations Research, 2018. </i> <br>
 <a href="/download/publications/ml-meets-mo-wind-parks.pdf">[pdf]</a>
 <a href="/download/bibtex/ml-mo-wind-parks.bib">[bibtex]</a>
@@ -108,7 +108,7 @@ Ali Mohebbi, Tinna B. Aradóttir, Alexander R. Johansen, Henrik Bengtsson, Marco
 
 <li> 
 <b> Indexable Probabilistic Matrix Factorization for Maximum Inner Product Search. </b> <font color="red"> </font> <br>
-Marco Fraccaro, Ulrich Paquet and Ole Winther.
+Marco Fraccaro, Ulrich Paquet and Ole Winther. <br>
 <i> The Thirtieth AAAI Conference on Artificial Intelligence, 2016. </i> <br>
 <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12029">[AAAI]</a>
 <a href="/download/publications/indexable-probabilistic-matrix-factorization.pdf">[pdf]</a>
@@ -117,7 +117,7 @@ Marco Fraccaro, Ulrich Paquet and Ole Winther.
 
 <li> 
 <b> An efficient implementation of Riemannian Manifold Hamiltonian Monte Carlo for Gaussian Process Models. </b> <font color="red"> </font> <br>
-Ulrich Paquet and Marco Fraccaro.
+Ulrich Paquet and Marco Fraccaro. <br>
 <i>Technical report, 2016. </i> <br>
 <a href="/download/publications/riemann-manifold-hamiltonian-monte-carlo-gp.pdf">[pdf]</a>
 <a href="/download/bibtex/riemann-manifold-hamiltonian-monte-carlo-gp.bib">[bibtex]</a>
@@ -125,7 +125,7 @@ Ulrich Paquet and Marco Fraccaro.
 
 <li> 
 <b> An Adaptive Resample-Move Algorithm for Estimating Normalizing Constants. </b> <font color="red"> </font> <br>
-Marco Fraccaro, Ulrich Paquet and Ole Winther.
+Marco Fraccaro, Ulrich Paquet and Ole Winther. <br>
 <i>ArXiv preprint, 2016. </i> <br>
 <a href="https://arxiv.org/abs/1604.01972">[arXiv]</a>
 <a href="/download/publications/adaptive-resample-move.pdf">[pdf]</a>
@@ -142,7 +142,7 @@ Manfred Opper, Marco Fraccaro, Ulrich Paquet, Alex Susemihl and Ole Winther. <br
 
 <li> 
 <b> Learning to Index. </b> <font color="red"> </font> <br>
-Marco Fraccaro.
+Marco Fraccaro. <br>
 <i>Master thesis, Technical University of Denmark, 2014. </i> <br>
 <a href="/download/publications/fraccaro_master_thesis.pdf">[pdf]</a>
 <a href="/download/bibtex/fraccaro_master_thesis.bib">[bibtex]</a>
