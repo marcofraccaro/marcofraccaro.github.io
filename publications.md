@@ -73,6 +73,15 @@ ___
 <ul>
 
 <li> 
+<b> The Added Effect of Artificial Intelligence on Physicians’ Performance in Detecting Thoracic Pathologies on CT and Chest X-ray: A Systematic Review. </b>  <font color="red"> </font> <br>
+Dana Li, Lea Marie Pehrson,Carsten Ammitzbøl Lauridsen, Lea Tøttrup, Marco Fraccaro, Desmond Elliott, Hubert Dariusz Zajac, Sune Darkner, Jonathan Frederik Carlsen and Michael Bachmann Nielsen. <br>
+<i>Diagnostics, 2021. </i> <br>
+<a href="https://www.mdpi.com/2075-4418/11/12/2206">[Diagnostics]</a>
+<a href="/download/publications/diagnostics-added-effect-ai-radiologists.pdf">[pdf]</a>
+<a href="/download/bibtex/diagnostics-added-effect-ai-radiologists.bib">[bibtex]</a>
+</li>
+
+<li> 
 <b> Machine Learning meets Mathematical Optimization to predict the optimal production of offshore wind parks. </b> <font color="red"> </font> <br>
 Martina Fischetti and Marco Fraccaro.
 <i>Computers & Operations Research, 2018. </i> <br>
