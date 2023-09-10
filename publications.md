@@ -79,8 +79,8 @@ Dana Li, Lea Marie Pehrson, Rasmus Bonnevie, Marco Fraccaro, Jakob Thrane, Lea T
  <br>
 <i>Diagnostics, 2023. </i> <br>
 <a href="https://www.mdpi.com/2075-4418/13/6/1070">[Diagnostics]</a>
-<a href="/download/publications/diagnostics-inter-and-intra-observer.pdf">[pdf]</a>
-<a href="/download/bibtex/diagnostics-inter-and-intra-observer.bib">[bibtex]</a>
+<a href="/download/publications/diagnostics-performance-agreement-when-annotating.pdf">[pdf]</a>
+<a href="/download/bibtex/diagnostics-performance-agreement-when-annotating.bib">[bibtex]</a>
 </li>
 
 
