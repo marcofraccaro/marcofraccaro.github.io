@@ -73,6 +73,30 @@ ___
 <ul>
 
 <li> 
+<b> Performance and Agreement When Annotating Chest X-ray Text Reports—A Preliminary Step in the Development of a Deep Learning-Based Prioritization and Detection System
+ </b> <br>
+Dana Li, Lea Marie Pehrson, Rasmus Bonnevie, Marco Fraccaro, Jakob Thrane, Lea Tøttrup, Carsten Ammitzbøl Lauridsen, Sedrah Butt Balaganeshan, Jelena Jankovic, Tobias Thostrup Andersen, Alyas Mayar, Kristoffer Lindskov Hansen, Jonathan Frederik Carlsen, Sune Darkner, Michael Bachmann Nielsen
+ <br>
+<i>Diagnostics, 2023. </i> <br>
+<a href="https://www.mdpi.com/2075-4418/13/6/1070">[Diagnostics]</a>
+<a href="/download/publications/diagnostics-inter-and-intra-observer.pdf">[pdf]</a>
+<a href="/download/bibtex/diagnostics-inter-and-intra-observer.bib">[bibtex]</a>
+</li>
+
+
+
+<li> 
+<b> Inter- and Intra-Observer Agreement When Using a Diagnostic Labeling Scheme for Annotating Findings on Chest X-rays—An Early Step in the Development of a Deep Learning-Based Decision Support System
+ </b> <br>
+Dana Li, Lea Marie Pehrson, Lea Tøttrup, Marco Fraccaro, Rasmus Bonnevie, Jakob Thrane, Peter Jagd Sørensen, Alexander Rykkje, Tobias Thostrup Andersen, Henrik Steglich-Arnholm, Dorte Marianne Rohde Stærk, Lotte Borgwardt, Kristoffer Lindskov Hansen, Sune Darkner, Jonathan Frederik Carlsen, Michael Bachmann Nielsen
+ <br>
+<i>Diagnostics, 2022. </i> <br>
+<a href="https://www.mdpi.com/2075-4418/12/12/3112">[Diagnostics]</a>
+<a href="/download/publications/diagnostics-inter-and-intra-observer.pdf">[pdf]</a>
+<a href="/download/bibtex/diagnostics-inter-and-intra-observer.bib">[bibtex]</a>
+</li>
+
+<li> 
 <b> The Added Effect of Artificial Intelligence on Physicians’ Performance in Detecting Thoracic Pathologies on CT and Chest X-ray: A Systematic Review. </b>  <font color="red"> </font> <br>
 Dana Li, Lea Marie Pehrson, Carsten Ammitzbøl Lauridsen, Lea Tøttrup, Marco Fraccaro, Desmond Elliott, Hubert Dariusz Zajac, Sune Darkner, Jonathan Frederik Carlsen and Michael Bachmann Nielsen. <br>
 <i>Diagnostics, 2021. </i> <br>

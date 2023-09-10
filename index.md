@@ -11,7 +11,7 @@ title: "Home"
 I am a Machine Learning researcher, working at the intersection of deep learning and probabilistic modelling.
 I completed a PhD in Machine Learning at the Technical University of Denmark (DTU), supervised by Ole Winther (DTU) and Ulrich Paquet (Google DeepMind).
 During my PhD I have done internships at Microsoft Research and Google DeepMind.
-Currently, I am the Chief Scientific Officer at Unumed, working on exciting applications of Machine Learning in healthcare.
+Currently, I am the Chief Data Officer at Unumed, working on exciting applications of Machine Learning in healthcare.
 
 &nbsp;
 
