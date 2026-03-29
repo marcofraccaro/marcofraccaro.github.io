@@ -73,6 +73,40 @@ ___
 <ul>
 
 <li> 
+<b> MOSAIC: A Multilingual, Taxonomy-Agnostic, and Computationally Efficient Approach for Radiological Report Classification in Low-Resource Settings. </b> <br>
+Alice Schiavone, Marco Fraccaro, Lea Marie Pehrson, Silvia Ingala, Rasmus Bonnevie, Michael Bachmann Nielsen, Vincent Beliveau, Melanie Ganz and Desmond Elliott. <br>
+<i>Proceedings of the 8th Workshop on Clinical Natural Language Processing, 2026. </i> <br>
+<a href="/download/bibtex/mosaic-multilingual-taxonomy-agnostic-radiological-report-classification.bib">[bibtex]</a>
+</li>
+
+<li> 
+<b> Effective Machine Learning Techniques for Non-English Radiology Report Classification: A Danish Case Study. </b> <br>
+Alice Schiavone, Lea Marie Pehrson, Silvia Ingala, Rasmus Bonnevie, Marco Fraccaro, Dana Li, Michael Bachmann Nielsen, Desmond Elliott. <br>
+<i>AI, 2025. </i> <br>
+<a href="https://www.mdpi.com/2673-2688/6/2/37">[AI Journal]</a>
+<a href="/download/publications/effective-machine-learning-techniques-non-english-radiology-reports.pdf">[pdf]</a>
+<a href="/download/bibtex/effective-machine-learning-techniques-non-english-radiology-reports.bib">[bibtex]</a>
+</li>
+
+<li> 
+<b> Towards Clinically Useful AI: From Radiology Practices in Global South and North to Visions of AI Support. </b> <br>
+Hubert D Zając, Tariq O Andersen, Elijah Kwasa, Ruth Wanjohi, Mary K Onyinkwa, Edward K Mwaniki, Samuel N Gitau, Shawnim S Yaseen, Jonathan F Carlsen, Marco Fraccaro, Michael B Nielsen, Yunan Chen. <br>
+<i>ACM Transactions on Computer-Human Interaction, 2025. </i> <br>
+<a href="https://dl.acm.org/doi/10.1145/3715115">[ACM]</a>
+<a href="/download/publications/towards-clinically-useful-ai-radiology-practices.pdf">[pdf]</a>
+<a href="/download/bibtex/towards-clinically-useful-ai-radiology-practices.bib">[bibtex]</a>
+</li>
+
+<li> 
+<b> Clinicians' Agreement on Extrapulmonary Radiographic Findings in Chest X-Rays Using a Diagnostic Labelling Scheme. </b> <br>
+Lea Marie Pehrson, Dana Li, Alyas Mayar, Marco Fraccaro, Rasmus Bonnevie, Peter Jagd Sørensen, Alexander Malcom Rykkje, Tobias Thostrup Andersen, Henrik Steglich-Arnholm, Dorte Marianne Rohde Stærk, Lotte Borgwardt, Sune Darkner, Jonathan Frederik Carlsen, Michael Bachmann Nielsen, Silvia Ingala. <br>
+<i>Diagnostics, 2025. </i> <br>
+<a href="https://www.mdpi.com/2075-4418/15/7/902">[Diagnostics]</a>
+<a href="/download/publications/clinicians-agreement-extrapulmonary-radiographic-findings-chest-xrays.pdf">[pdf]</a>
+<a href="/download/bibtex/clinicians-agreement-extrapulmonary-radiographic-findings-chest-xrays.bib">[bibtex]</a>
+</li>
+
+<li> 
 <b> Performance and Agreement When Annotating Chest X-ray Text Reports—A Preliminary Step in the Development of a Deep Learning-Based Prioritization and Detection System
  </b> <br>
 Dana Li, Lea Marie Pehrson, Rasmus Bonnevie, Marco Fraccaro, Jakob Thrane, Lea Tøttrup, Carsten Ammitzbøl Lauridsen, Sedrah Butt Balaganeshan, Jelena Jankovic, Tobias Thostrup Andersen, Alyas Mayar, Kristoffer Lindskov Hansen, Jonathan Frederik Carlsen, Sune Darkner, Michael Bachmann Nielsen
